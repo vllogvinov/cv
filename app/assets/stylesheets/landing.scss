@@ -1,0 +1,89 @@
+// Place all the styles related to the Landing controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+body {
+  font-family: "Arial";
+}
+
+.name {
+  font-weight: 400;
+}
+
+h5 {
+  margin: 0;
+  margin-bottom: 3px;
+  font-size: 15px;
+}
+
+h4 {
+  margin-bottom: 8px;
+  margin-top: 8px;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.body {
+  padding-top: 40px;
+  padding-left: 30px;
+}
+
+.content-body {
+  width: 40em;
+}
+
+.main {
+  margin-bottom: 15px;
+}
+
+.content {
+  display: flex;
+  gap: 4em;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1px;
+  font-weight: normal;
+}
+
+h1 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.sidebar-block {
+  margin-bottom: 10px;
+}
+
+.subinfo {
+  font-size: 11px;
+  opacity: 50%;
+  margin-bottom: 3px;
+}
+
+.content {
+  display: flex;
+}
+
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.main-header {
+  display: flex;
+}
+
+.icon {
+  width: 15px;
+  padding-right: 8px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
